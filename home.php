@@ -31,9 +31,9 @@ isset ($_GET['page']) ? $page = $_GET['page'] : $page = 'dashboard';
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>PT. KARGO SANTOSA</title>
+      <title>PT.TELLU CAPPA LOGISTIC</title>
       <!-- Favicon and touch icons -->
-      <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
+      <link rel="shortcut icon" href="img/logo2.png?v=<?php echo time(); ?>" type="image/x-icon">
       <!-- Start Global Mandatory Style
          =====================================================================-->
       <!-- jquery-ui css -->
@@ -88,7 +88,7 @@ isset ($_GET['page']) ? $page = $_GET['page'] : $page = 'dashboard';
         <?php include "page/isi.php"; ?>
          <!-- /.content-wrapper -->
          <footer class="main-footer">
-            <strong><a href="#">PT. KARGO SANTOSA</a></strong>
+            <strong><a href="#">PT.TELLU CAPPA LOGISTIC</a></strong>
       </div>
       <!-- /.wrapper -->
       <!-- Start Core Plugins

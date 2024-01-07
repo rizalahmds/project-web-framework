@@ -102,7 +102,7 @@ $(document).ready(function()
                 $data=mysqli_fetch_array($cek_lagi);
                 if ($ketemu > 0){
                 echo " <h2 class='text-white-50 mx-auto mt-2 mb-5'> INFORMASI PENGIRIMAN :</h2>
-                <table class='table table-bordered table-hover' style='color: #2285ff'>
+                <table class='table table-bordered table-hover' style='color: #ffffff'>
                                  <thead>
                                     <tr class='info'>
                                        <th>No Resi</th>
@@ -156,7 +156,7 @@ $(document).ready(function()
                 $ongkos=$kab['ongkos_kirim']; + $data1['biaya_paket'];
                 if ($ketemu1 > 0){
                 echo " <h2 class='text-white-50 mx-auto mt-2 mb-5'> INFORMASI TARIF HARGA :</h2>
-                <table class='table table-bordered table-hover' style='color: #2285ff'>
+                <table class='table table-bordered table-hover' style='color: #ffffff'>
                                  <thead>
                                     <tr class='info'>
                                        <th>Nama Layanan</th>
@@ -366,7 +366,12 @@ $(document).ready(function()
               <i class="fas fa-map-marked-alt text-primary mb-2"></i>
               <h4 class="text-uppercase m-0">Alamat</h4>
               <hr class="my-4">
-              <div class="small text-black-50">Jln. Selabintana No. 29 43114 Sukabumi, Jawa Barat, Indonesia</div>
+              <div class="small text-black-50">Head Office : 
+Jl. Urip Sumoharjo No 28, Makassar
+<br>
+Jakarta Branch Office :
+Jl. Pengadengan Utara No.3
+Cikoko Pancoran, Jakarta Selatan</div>
             </div>
           </div>
         </div>
@@ -378,7 +383,7 @@ $(document).ready(function()
               <h4 class="text-uppercase m-0">Email</h4>
               <hr class="my-4">
               <div class="small text-black-50">
-                <a href="#">kargo.santosa@gmail.com</a>
+                <a href="#">tellucappa21@gmail.com</a>
               </div>
             </div>
           </div>
@@ -390,7 +395,7 @@ $(document).ready(function()
               <i class="fa fa-mobile-alt text-primary mb-2"></i>
               <h4 class="text-uppercase m-0">Phone</h4>
               <hr class="my-4">
-              <div class="small text-black-50">+62 266-225039</div>
+              <div class="small text-black-50">0823-4990-9905 / 0877 6167 5857</div>
             </div>
           </div>
         </div>
@@ -409,7 +414,7 @@ $(document).ready(function()
   <!-- Footer -->
   <footer class="bg-black small text-center text-white-50">
     <div class="container">
-      PT. KARGO SANTOSA
+      PT. Tellu-Cappa Logistik
     </div>
   </footer>
 

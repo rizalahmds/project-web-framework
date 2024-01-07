@@ -10,7 +10,7 @@ error_reporting(E_ALL ^ (E_NOTICE | E_WARNING));
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>PT. KARGO SANTOSA</title>
+        <title>PT. TELLU CAPPA</title>
 
         <!-- Favicon and touch icons -->
         <link rel="shortcut icon" href="img/logo2.png" type="image/x-icon">
